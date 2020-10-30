@@ -1,6 +1,6 @@
 # PythonProgramming3
 Python programming 3 course (University of Michigan)
 
-This is the last module of course, Python Project: pillow, tesseract, and opencv.
+This is the course's last module, Python Project: pillow, tesseract, and opencv.
 
-Include only assigment and project ipynb files and folder with images to insert in files.
+Include week lessons, assigments and project in ipynb files. Folder has images to insert in ipynb files. 
